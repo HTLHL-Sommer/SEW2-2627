@@ -1,4 +1,4 @@
-package MethodLog;
+package at.htlhl.sew2.vorjahr.MethodLog;
 
 import java.io.FileWriter;
 import java.io.IOException;
