@@ -26,5 +26,10 @@ public class CarDealer {
         fiatMultipla.setPower(-100);
         IO.println(fiatMultipla.getPower());
 
+        Wheel pirelli = new Wheel();
+        pirelli.setBrand("Pirelli SCORPION WINTER 3");
+        pirelli.setTireTread(22.3f);
+        pirelli.setType('a');
+
     }
 }
